@@ -1,0 +1,17 @@
+{
+  "session": {
+    "trust_all_worktrees": true
+  },
+  "theme": "Ayu Dark",
+  "buffer_font_family": "JetBrains Mono",
+  "buffer_font_size": 15,
+  "ui_font_size": 16,
+
+  "tab_size": 2,
+  "format_on_save": "on",
+  "autosave": "on_focus_change",
+  "soft_wrap": "editor_width",
+  "languages": { "Python": { "formatter": { "external": { "command": "ruff", "args": ["format", "-"] } } } },
+    "telemetry": { "diagnostics": false, "metrics": false },
+  "git": { "inline_blame": { "enabled": true } }
+}
