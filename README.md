@@ -34,7 +34,7 @@ documentation ranges (`192.0.2.0/24`). Substitute your own.
 |---|---|
 | CPU | AMD Ryzen 9 3900X |
 | GPU | Radeon RX 7900 XTX (Navi 31, `gfx1100`), 24 GB |
-| RAM | 32 GB |
+| RAM | 64 GB |
 | Storage | 2 TB NVMe (btrfs on LUKS2) |
 | Wireless | Intel Wi-Fi 6 AX200 |
 | Security key | YubiKey 5 (LUKS unlock) |
